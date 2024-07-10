@@ -1,0 +1,38 @@
+﻿  testh.c
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(759,6): error C2084: 函数“int main()”已有主体
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(746,5): message : 参见“main”的前一个定义
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(764,3): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(764,3): error C2146: 语法错误: 缺少“;”(在标识符“鈥”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(764,8): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(764,8): error C2143: 语法错误: 缺少“;”(在“for”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(768,3): error C2065: “鈥媨”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(768,3): error C2146: 语法错误: 缺少“;”(在标识符“鈥”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(768,13): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(768,13): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(770,13): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(770,13): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(772,9): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(772,9): error C2143: 语法错误: 缺少“;”(在“for”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(774,9): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(774,9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(776,10): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(776,10): error C2143: 语法错误: 缺少“;”(在“if”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(778,10): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(778,10): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(780,10): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(780,10): error C2146: 语法错误: 缺少“;”(在标识符“flag”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(782,10): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(782,10): error C2143: 语法错误: 缺少“;”(在“break”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(784,8): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(784,8): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(786,7): error C2065: “鈥”: 未声明的标识符
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(786,7): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(782,10): error C2043: 非法 break
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(788,16): error C2143: 语法错误: 缺少“)”(在“==”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(788,16): error C2143: 语法错误: 缺少“{”(在“==”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(788,16): error C2059: 语法错误:“==”
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(788,20): error C2059: 语法错误:“)”
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(792,7): error C2143: 语法错误: 缺少“{”(在“}”的前面)
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(792,7): error C2059: 语法错误:“}”
+C:\Users\1\Desktop\c--lang\分支和循环\testh.c(795,1): error C2059: 语法错误:“}”
