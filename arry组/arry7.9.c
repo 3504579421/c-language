@@ -1,3 +1,4 @@
+```
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
 //尝试打印数组元素
@@ -110,3 +111,5 @@ for (i = 0; i < 3; i++)//产生行号
     }
     return 0;
 }
+```
+
